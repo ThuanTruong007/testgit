@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-test 6
-=======
-test 5.
->>>>>>> testgit2
+testing merge #1
+
